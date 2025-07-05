@@ -50,8 +50,10 @@ graph TD
    - Interactive plots are created with Bokeh to monitor how pricing changes over time per lot
    - Dropdown menu to select parking lot
    - Shows how price evolves over time
-   - Model 1: Smooth occupancy-based progression  
+   - Model 1: Smooth occupancy-based progression
+   - ![Model 1 Dashboard](Model1.dashboard.png)
    - Model 2: Responsive demand-based variation
+   - ![Model 2 Dashboard](Model2.dashboard.png)
 
 
 
