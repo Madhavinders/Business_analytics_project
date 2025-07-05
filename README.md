@@ -55,5 +55,8 @@ graph TD
    - Model 2: Responsive demand-based variation
    - ![Model 2 Dashboard](Model2.dashboard.png)
 
+ ## Final Report
+
+[📥 Download Final Report (PDF)](final_report.pdf)
 
 
